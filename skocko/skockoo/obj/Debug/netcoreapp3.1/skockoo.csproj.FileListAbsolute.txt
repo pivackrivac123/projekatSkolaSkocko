@@ -1,0 +1,16 @@
+C:\Users\Pavle\source\repos\skocko\skockoo\bin\Debug\netcoreapp3.1\skockoo.exe
+C:\Users\Pavle\source\repos\skocko\skockoo\bin\Debug\netcoreapp3.1\skockoo.deps.json
+C:\Users\Pavle\source\repos\skocko\skockoo\bin\Debug\netcoreapp3.1\skockoo.runtimeconfig.json
+C:\Users\Pavle\source\repos\skocko\skockoo\bin\Debug\netcoreapp3.1\skockoo.runtimeconfig.dev.json
+C:\Users\Pavle\source\repos\skocko\skockoo\bin\Debug\netcoreapp3.1\skockoo.dll
+C:\Users\Pavle\source\repos\skocko\skockoo\bin\Debug\netcoreapp3.1\skockoo.pdb
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.csproj.AssemblyReference.cache
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.Form1.resources
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.csproj.GenerateResource.cache
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.AssemblyInfoInputs.cache
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.AssemblyInfo.cs
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.csproj.CoreCompileInputs.cache
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.dll
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.pdb
+C:\Users\Pavle\source\repos\skocko\skockoo\obj\Debug\netcoreapp3.1\skockoo.genruntimeconfig.cache
